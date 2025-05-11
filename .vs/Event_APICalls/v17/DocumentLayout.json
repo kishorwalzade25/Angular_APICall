@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Full stack\\Event_APICalls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|d:\\.net\\full stack\\event_apicalls\\src\\app\\api\\apicall.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|solutionrelative:src\\app\\api\\apicall.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|d:\\.net\\full stack\\event_apicalls\\src\\app\\service\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|solutionrelative:src\\app\\service\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|d:\\.net\\full stack\\event_apicalls\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|d:\\.net\\full stack\\event_apicalls\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|d:\\.net\\full stack\\event_apicalls\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|solutionrelative:src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|d:\\.net\\full stack\\event_apicalls\\src\\app\\models\\event.models.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|solutionrelative:src\\app\\models\\event.models.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|d:\\.net\\full stack\\event_apicalls\\src\\app\\service\\api_address.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D310F8E7-99ED-44C4-AB74-1E8A796D8AE4}|Event_APICalls.esproj|solutionrelative:src\\app\\service\\api_address.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.spec.ts",
+              "ToolTip": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-31T15:18:35.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-08T17:55:45.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "event.models.ts",
+              "DocumentMoniker": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\Models\\event.models.ts",
+              "RelativeDocumentMoniker": "src\\app\\Models\\event.models.ts",
+              "ToolTip": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\Models\\event.models.ts",
+              "RelativeToolTip": "src\\app\\Models\\event.models.ts",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-26T15:02:40.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
+              "ToolTip": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\app.module.ts",
+              "RelativeToolTip": "src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-25T08:57:25.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\Service\\auth.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\Service\\auth.service.ts",
+              "ToolTip": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\Service\\auth.service.ts",
+              "RelativeToolTip": "src\\app\\Service\\auth.service.ts",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-16T18:02:43.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api_address.service.ts",
+              "DocumentMoniker": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\Service\\api_address.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\Service\\api_address.service.ts",
+              "ToolTip": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\Service\\api_address.service.ts",
+              "RelativeToolTip": "src\\app\\Service\\api_address.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-16T18:01:08.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "apiCall.service.ts",
+              "DocumentMoniker": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\API\\apiCall.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\API\\apiCall.service.ts",
+              "ToolTip": "D:\\.Net\\Full stack\\Event_APICalls\\src\\app\\API\\apiCall.service.ts",
+              "RelativeToolTip": "src\\app\\API\\apiCall.service.ts",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-16T18:00:11.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
